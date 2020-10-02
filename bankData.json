@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 324394,
+    "geolocation": {
+      "latitude": 55.804936,
+      "longitude": 37.589922
+    },
+    "address": {
+      "region": "Москва",
+      "regionType": "г",
+      "settlementType": "г",
+      "settlement": "Москва",
+      "fullAddress": "г. Москва, ул. Новодмитровская, д. 2, корп. 1",
+      "location": "Бизнес Парк \"Савеловский Сити\""
+    }
+  },
+  {
+    "id": 324460,
+    "geolocation": {
+      "latitude": 55.524047,
+      "longitude": 37.518347
+    },
+    "address": {
+      "region": "Москва",
+      "regionType": "г",
+      "settlementType": "г",
+      "settlement": "Москва",
+      "fullAddress": "г. Москва, Чечёрский пр., 51",
+      "location": "ТЦ \"Бутово Молл\""
+    }
+  },
+  {
+    "id": 324957,
+    "geolocation": {
+      "latitude": 51.863511,
+      "longitude": 54.763003
+    },
+    "address": {
+      "region": "Оренбургская",
+      "regionType": "обл",
+      "settlementType": "п",
+      "settlement": "Каргала",
+      "fullAddress": "Оренбургская обл., п. Каргала, Подгородне-покровский сельсовет севернее ориентира 29-й км трассы оренбург-самара",
+      "location": "Операционный офис №037/2013 Ф-ла Банка ГПБ (АО) \"Поволжский\""
+    }
+  },
+  {
+    "id": 324959,
+    "geolocation": {
+      "latitude": 51.717497,
+      "longitude": 55.091279
+    },
+    "address": {
+      "region": "Оренбургская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Оренбург",
+      "fullAddress": "Оренбургская обл., г. Оренбург, ул. Донгузская, 50",
+      "location": "Административное здание Филиала «Оренбург бурение» ООО «Газпром бурение»"
+    }
+  },
+  {
+    "id": 324961,
+    "geolocation": {
+      "latitude": 51.77572,
+      "longitude": 55.185184
+    },
+    "address": {
+      "region": "Оренбургская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Оренбург",
+      "fullAddress": "Оренбургская обл., г. Оренбург, пр. Гагарина, 48/3",
+      "location": "ТК \"3 Мартышки\""
+    }
+  },
+  {
+    "id": 324962,
+    "geolocation": {
+      "latitude": 51.782296,
+      "longitude": 55.21768
+    },
+    "address": {
+      "region": "Оренбургская",
+      "regionType": "обл",
+      "settlementType": "п",
+      "settlement": "Ростоши",
+      "fullAddress": "Оренбургская обл., п. Ростоши, ул. Газпромовская, 65",
+      "location": "Операционный офис №037/2014 Ф-ла Банка ГПБ (АО) \"Поволжский\""
+    }
+  },
+  {
+    "id": 324963,
+    "geolocation": {
+      "latitude": 51.761702,
+      "longitude": 55.101289
+    },
+    "address": {
+      "region": "Оренбургская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Оренбург",
+      "fullAddress": "Оренбургская обл., г. Оренбург, ул. Пушкинская, 20",
+      "location": "Административное здание ООО \"ВолгоУралНИПИгаз\""
+    }
+  },
+  {
+    "id": 324964,
+    "geolocation": {
+      "latitude": 51.76775,
+      "longitude": 55.092614
+    },
+    "address": {
+      "region": "Оренбургская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Оренбург",
+      "fullAddress": "Оренбургская обл., г. Оренбург, ул. Постникова, 9б",
+      "location": "ООО \"Газпром межрегионгаз Оренбург\""
+    }
+  },
+  {
+    "id": 324967,
+    "geolocation": {
+      "latitude": 51.825114,
+      "longitude": 55.111087
+    },
+    "address": {
+      "region": "Оренбургская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Оренбург",
+      "fullAddress": "Оренбургская обл., г. Оренбург, пр. Дзержинского, 2/2",
+      "location": "Административное здание НТЦ \"Промбезопасность\""
+    }
+  },
+  {
+    "id": 324968,
+    "geolocation": {
+      "latitude": 51.76126,
+      "longitude": 55.106426
+    },
+    "address": {
+      "region": "Оренбургская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Оренбург",
+      "fullAddress": "Оренбургская обл., г. Оренбург, ул. Правды, 18",
+      "location": "Операционный офис №037/2009 Ф-ла Банка ГПБ (АО) \"Поволжский\""
+    }
+  },
+  {
+    "id": 324970,
+    "geolocation": {
+      "latitude": 51.794495,
+      "longitude": 55.163759
+    },
+    "address": {
+      "region": "Оренбургская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Оренбург",
+      "fullAddress": "Оренбургская обл., г. Оренбург, ул. Авторемонтная, 1",
+      "location": "ТК \"АвтоМаксимум\""
+    }
+  },
+  {
+    "id": 324971,
+    "geolocation": {
+      "latitude": 51.774596,
+      "longitude": 55.215595
+    },
+    "address": {
+      "region": "Оренбургская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Оренбург",
+      "fullAddress": "Оренбургская обл., г. Оренбург, Нежинское шоссе, 11",
+      "location": "\"Автосалон - 2000\""
+    }
+  },
+  {
+    "id": 324972,
+    "geolocation": {
+      "latitude": 52.792126,
+      "longitude": 52.26596
+    },
+    "address": {
+      "region": "Оренбургская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Бузулук",
+      "fullAddress": "Оренбургская обл., г. Бузулук, ул. Ленина, 54",
+      "location": "ТЦ \"Империя\""
+    }
+  },
+  {
+    "id": 324973,
+    "geolocation": {
+      "latitude": 51.770027,
+      "longitude": 55.077422
+    },
+    "address": {
+      "region": "Оренбургская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Оренбург",
+      "fullAddress": "Оренбургская обл., г. Оренбург, пер. Кондукторский, 2",
+      "location": "ТК \"Город Локомотив\""
+    }
+  },
+  {
+    "id": 325262,
+    "geolocation": {
+      "latitude": 45.2631,
+      "longitude": 41.83655
+    },
+    "address": {
+      "region": "Ставропольский",
+      "regionType": "край",
+      "settlementType": "п",
+      "settlement": "Рыздвяный",
+      "fullAddress": "Ставропольский край., п. Рыздвяный, ул. Южная, д.5",
+      "location": "\"Газпром трансгаз Ставрополь\" УТТ и СТ"
+    }
+  },
+  {
+    "id": 524263,
+    "geolocation": {
+      "latitude": 55.888256,
+      "longitude": 37.589363
+    },
+    "address": {
+      "region": "Москва",
+      "regionType": "г",
+      "settlementType": "г",
+      "settlement": "Москва",
+      "fullAddress": "г. Москва, Алтуфьевское шоссе д. 70, корп. 1.",
+      "location": "ТДЦ «Маркос-Молл»"
+    }
+  },
+  {
+    "id": 524266,
+    "geolocation": {
+      "latitude": 55.905494,
+      "longitude": 37.412824
+    },
+    "address": {
+      "region": "Московская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Химки",
+      "fullAddress": "Московская обл., г. Химки, Г.О. Химки, Ленинградское ш., влад. 21",
+      "location": "Автосалон \"РОЛЬФ\""
+    }
+  },
+  {
+    "id": 524268,
+    "geolocation": {
+      "latitude": 55.710687,
+      "longitude": 37.670465
+    },
+    "address": {
+      "region": "Москва",
+      "regionType": "г",
+      "settlementType": "г",
+      "settlement": "Москва",
+      "fullAddress": "г. Москва, ул. 7-ая Кожуховская, вл. 3А, 5 (ЮВАО)",
+      "location": "ТРЦ \"Мозаика\", выход с парковки к супермаркету \"Лента\" (цокольный этаж)"
+    }
+  },
+  {
+    "id": 524269,
+    "geolocation": {
+      "latitude": 55.608409,
+      "longitude": 38.858478
+    },
+    "address": {
+      "region": "Московская",
+      "regionType": "обл",
+      "settlementType": "д",
+      "settlement": "Давыдово",
+      "fullAddress": "Московская обл., д. Давыдово, Орехово-Зуевский район, дер. Давыдово, 2-ой микрорайон",
+      "location": "Супермаркет \"Гранд\""
+    }
+  },
+  {
+    "id": 524272,
+    "geolocation": {
+      "latitude": 55.719987,
+      "longitude": 37.776215
+    },
+    "address": {
+      "region": "Москва",
+      "regionType": "г",
+      "settlementType": "г",
+      "settlement": "Москва",
+      "fullAddress": "г. Москва, Рязанский просп., д. 24, корп. 3",
+      "location": "Автосалон \"РОЛЬФ\""
+    }
+  },
+  {
+    "id": 524273,
+    "geolocation": {
+      "latitude": 55.767332,
+      "longitude": 37.524228
+    },
+    "address": {
+      "region": "Москва",
+      "regionType": "г",
+      "settlementType": "г",
+      "settlement": "Москва",
+      "fullAddress": "г. Москва, 2-ой Магистральный туп., д. 5А",
+      "location": "Автосалон \"РОЛЬФ\""
+    }
+  },
+  {
+    "id": 524274,
+    "geolocation": {
+      "latitude": 55.679895,
+      "longitude": 37.568497
+    },
+    "address": {
+      "region": "Москва",
+      "regionType": "г",
+      "settlementType": "г",
+      "settlement": "Москва",
+      "fullAddress": "г. Москва, ул. Кржижановского,  д. 16, корп. 3",
+      "location": "ПАО \"СИБУР Холдинг\", внутренний корпус"
+    }
+  },
+  {
+    "id": 524276,
+    "geolocation": {
+      "latitude": 55.528798,
+      "longitude": 37.194544
+    },
+    "address": {
+      "region": "Московская",
+      "regionType": "обл",
+      "settlementType": "д",
+      "settlement": "Рогозинино",
+      "fullAddress": "Московская обл., д. Рогозинино, п/о \"Первомайское\", деревня Рогозинино (24 км от МКАД по Киевскому шоссе)",
+      "location": "Пансионат \"Империал парк отель \u0026 SPA\", ОАО \"ДРУЖБА\", вестибюль"
+    }
+  },
+  {
+    "id": 524279,
+    "geolocation": {
+      "latitude": 55.762399,
+      "longitude": 37.619117
+    },
+    "address": {
+      "region": "Москва",
+      "regionType": "г",
+      "settlementType": "г",
+      "settlement": "Москва",
+      "fullAddress": "г. Москва, ул. Петровка, д. 10",
+      "location": "ТЦ \"Петровский пассаж\", Группа компаний \"BOSCO\""
+    }
+  },
+  {
+    "id": 524280,
+    "geolocation": {
+      "latitude": 55.724124,
+      "longitude": 37.825155
+    },
+    "address": {
+      "region": "Москва",
+      "regionType": "г",
+      "settlementType": "г",
+      "settlement": "Москва",
+      "fullAddress": "г. Москва, ул. Вешняковская, д. 18",
+      "location": "ТЦ «Вешняки»"
+    }
+  },
+  {
+    "id": 524282,
+    "geolocation": {
+      "latitude": 55.617276,
+      "longitude": 37.715622
+    },
+    "address": {
+      "region": "Москва",
+      "regionType": "г",
+      "settlementType": "г",
+      "settlement": "Москва",
+      "fullAddress": "г. Москва, Каширское ш., д. 61, стр. 3А, корп. 1",
+      "location": "АТЦ \"Москва\""
+    }
+  },
+  {
+    "id": 524283,
+    "geolocation": {
+      "latitude": 55.68532,
+      "longitude": 37.540156
+    },
+    "address": {
+      "region": "Москва",
+      "regionType": "г",
+      "settlementType": "г",
+      "settlement": "Москва",
+      "fullAddress": "г. Москва, Ленинский просп., д. 72/2",
+      "location": "Магазин \"Л\u0027Этуаль\""
+    }
+  },
+  {
+    "id": 524284,
+    "geolocation": {
+      "latitude": 55.819392,
+      "longitude": 37.578314
+    },
+    "address": {
+      "region": "Москва",
+      "regionType": "г",
+      "settlementType": "г",
+      "settlement": "Москва",
+      "fullAddress": "г. Москва, ул. Яблочкова, д. 21А",
+      "location": "ТЦ \"Тимирязевский\""
+    }
+  },
+  {
+    "id": 524287,
+    "geolocation": {
+      "latitude": 55.662136,
+      "longitude": 37.547046
+    },
+    "address": {
+      "region": "Москва",
+      "regionType": "г",
+      "settlementType": "г",
+      "settlement": "Москва",
+      "fullAddress": "г. Москва, ул. Профсоюзная, д. 57",
+      "location": "АО \"СОГАЗ\""
+    }
+  },
+  {
+    "id": 524288,
+    "geolocation": {
+      "latitude": 55.83738,
+      "longitude": 37.744227
+    },
+    "address": {
+      "region": "Москва",
+      "regionType": "г",
+      "settlementType": "г",
+      "settlement": "Москва",
+      "fullAddress": "г. Москва, ул. Лосиноостровская, д. 45, корп. 1",
+      "location": "ФГБУ \"Клиническая больница УД Президента РФ\", Главный корпус"
+    }
+  },
+  {
+    "id": 524290,
+    "geolocation": {
+      "latitude": 55.321612,
+      "longitude": 38.673104
+    },
+    "address": {
+      "region": "Московская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Воскресенск",
+      "fullAddress": "Московская обл., г. Воскресенск, пл. Ленина, д. 5",
+      "location": "Магазин \"Технопарк\""
+    }
+  },
+  {
+    "id": 524299,
+    "geolocation": {
+      "latitude": 55.659622,
+      "longitude": 37.747738
+    },
+    "address": {
+      "region": "Москва",
+      "regionType": "г",
+      "settlementType": "г",
+      "settlement": "Москва",
+      "fullAddress": "г. Москва, ул. Перерва, д. 43, корп. 1",
+      "location": "ТЦ \"БУМ\", кинотеатр \"Киномакс Солярис\" (3 этаж)"
+    }
+  },
+  {
+    "id": 524301,
+    "geolocation": {
+      "latitude": 55.789856,
+      "longitude": 37.631422
+    },
+    "address": {
+      "region": "Москва",
+      "regionType": "г",
+      "settlementType": "г",
+      "settlement": "Москва",
+      "fullAddress": "г. Москва, ул. Трифоновская, д. 57, стр. 3",
+      "location": "ОАО \"ТНТ-Телесеть\" (1 этаж), ОАО \"Газпром-Медиа Холдинг\""
+    }
+  },
+  {
+    "id": 524308,
+    "geolocation": {
+      "latitude": 55.587448,
+      "longitude": 37.751933
+    },
+    "address": {
+      "region": "Московская",
+      "regionType": "обл",
+      "settlementType": "п",
+      "settlement": "Развилка",
+      "fullAddress": "Московская обл., п. Развилка, Ленинский район, пос. Развилка",
+      "location": "ООО \"Газпром ВНИИГАЗ\""
+    }
+  },
+  {
+    "id": 524311,
+    "geolocation": {
+      "latitude": 55.664472,
+      "longitude": 37.599238
+    },
+    "address": {
+      "region": "Москва",
+      "regionType": "г",
+      "settlementType": "г",
+      "settlement": "Москва",
+      "fullAddress": "г. Москва, ул. Одесская, д. 2",
+      "location": "ООО «Гранд Хаус»"
+    }
+  },
+  {
+    "id": 524312,
+    "geolocation": {
+      "latitude": 55.241647,
+      "longitude": 37.963945
+    },
+    "address": {
+      "region": "Московская",
+      "regionType": "обл",
+      "settlementType": "п",
+      "settlement": "Ильинское",
+      "fullAddress": "Московская обл., п. Ильинское, Домодедовский р-н, п. Ильинское",
+      "location": "Магазин \"Пятерочка\""
+    }
+  },
+  {
+    "id": 524315,
+    "geolocation": {
+      "latitude": 55.662512,
+      "longitude": 37.223277
+    },
+    "address": {
+      "region": "Московская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "",
+      "fullAddress": "Московская обл., г. , Одинцовский р-н., а/д \"Новый выход на МКАД с федеральной автомобильной дороги М-1 \"Беларусь\" Москва – Минск\", 13,4 км",
+      "location": "Пункт взимания платы (ПВП ПК 134), ООО \"Новое качество дорог\""
+    }
+  },
+  {
+    "id": 524318,
+    "geolocation": {
+      "latitude": 55.151416,
+      "longitude": 37.55036
+    },
+    "address": {
+      "region": "Московская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "",
+      "fullAddress": "Московская обл., г. , МО, 94 км Симферопольского ш., правая сторона",
+      "location": "АЗС \"Газпромнефть\" № 12"
+    }
+  },
+  {
+    "id": 524322,
+    "geolocation": {
+      "latitude": 55.655923,
+      "longitude": 37.541505
+    },
+    "address": {
+      "region": "Москва",
+      "regionType": "г",
+      "settlementType": "г",
+      "settlement": "Москва",
+      "fullAddress": "г. Москва, ул. Профсоюзная, д. 61 А",
+      "location": "ТЦ \"Калужский\", Детский квартал (1этаж)"
+    }
+  },
+  {
+    "id": 524329,
+    "geolocation": {
+      "latitude": 55.746299,
+      "longitude": 37.546174
+    },
+    "address": {
+      "region": "Москва",
+      "regionType": "г",
+      "settlementType": "г",
+      "settlement": "Москва",
+      "fullAddress": "г. Москва, наб. Тараса Шевченко, д. 23а",
+      "location": "ООО \"СТРОЙГАЗКОНСАЛТИНГ\""
+    }
+  },
+  {
+    "id": 524331,
+    "geolocation": {
+      "latitude": 55.688862,
+      "longitude": 37.540668
+    },
+    "address": {
+      "region": "Москва",
+      "regionType": "г",
+      "settlementType": "г",
+      "settlement": "Москва",
+      "fullAddress": "г. Москва, Ломоносовский просп., д. 15",
+      "location": "Д/О № 099/1012 Банка ГПБ (АО) \"Ломоносовский\", зона 24"
+    }
+  },
+  {
+    "id": 524335,
+    "geolocation": {
+      "latitude": 55.745904,
+      "longitude": 37.55991
+    },
+    "address": {
+      "region": "Москва",
+      "regionType": "г",
+      "settlementType": "г",
+      "settlement": "Москва",
+      "fullAddress": "г. Москва, ул. Большая Дорогомиловская, д. 5",
+      "location": "Магазин \"Л\u0027Этуаль\""
+    }
+  },
+  {
+    "id": 524343,
+    "geolocation": {
+      "latitude": 55.752931,
+      "longitude": 37.576024
+    },
+    "address": {
+      "region": "Москва",
+      "regionType": "г",
+      "settlementType": "г",
+      "settlement": "Москва",
+      "fullAddress": "г. Москва, ул. Новый Арбат, д. 36, стр. 3",
+      "location": "ТЦ «Сфера» (-1 этаж)"
+    }
+  },
+  {
+    "id": 524344,
+    "geolocation": {
+      "latitude": 55.72346,
+      "longitude": 37.585404
+    },
+    "address": {
+      "region": "Москва",
+      "regionType": "г",
+      "settlementType": "г",
+      "settlement": "Москва",
+      "fullAddress": "г. Москва, Фрунзенская наб., д. 30",
+      "location": "ОАО \"Росстройэкспо\", павильон № 26 Администрация"
+    }
+  },
+  {
+    "id": 524346,
+    "geolocation": {
+      "latitude": 55.805275,
+      "longitude": 37.800874
+    },
+    "address": {
+      "region": "Москва",
+      "regionType": "г",
+      "settlementType": "г",
+      "settlement": "Москва",
+      "fullAddress": "г. Москва, ул. 9-ая Парковая, д. 62",
+      "location": "ТЦ \"Первомайский\" (1 этаж)"
+    }
+  },
+  {
+    "id": 524366,
+    "geolocation": {
+      "latitude": 56.461001,
+      "longitude": 43.646712
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "п",
+      "settlement": "Лукино",
+      "fullAddress": "Нижегородская обл., п. Лукино, автотрасса Нижний Новгород-Иваново, 31-й км, Лукинское лесничество, квартал 9",
+      "location": "Пансионат «Волга»"
+    }
+  },
+  {
+    "id": 524370,
+    "geolocation": {
+      "latitude": 56.383579,
+      "longitude": 41.324932
+    },
+    "address": {
+      "region": "Владимирская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Ковров",
+      "fullAddress": "Владимирская обл., г. Ковров, тер.Ковров-8, 8",
+      "location": "в/ч 30616, КПП"
+    }
+  },
+  {
+    "id": 524372,
+    "geolocation": {
+      "latitude": 56.287332,
+      "longitude": 43.92821
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Нижний Новгород",
+      "fullAddress": "Нижегородская обл., г. Нижний Новгород, пр-т Ленина,33",
+      "location": "ТЦ \"Муравей\""
+    }
+  },
+  {
+    "id": 524373,
+    "geolocation": {
+      "latitude": 56.500527,
+      "longitude": 43.605776
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Балахна",
+      "fullAddress": "Нижегородская обл., г. Балахна, ул. Лесопильная, 1",
+      "location": "ТЦ \"Галактика\""
+    }
+  },
+  {
+    "id": 524374,
+    "geolocation": {
+      "latitude": 56.323148,
+      "longitude": 44.000093
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Нижний Новгород",
+      "fullAddress": "Нижегородская обл., г. Нижний Новгород, ул.Пискунова, 3/5",
+      "location": "АО \"ГТНН\""
+    }
+  },
+  {
+    "id": 524377,
+    "geolocation": {
+      "latitude": 55.55497,
+      "longitude": 45.919398
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "рп",
+      "settlement": "Пильна",
+      "fullAddress": "Нижегородская обл., рп. Пильна, Пильненское ЛПУМГ",
+      "location": "Пильненское ЛПУМГ"
+    }
+  },
+  {
+    "id": 524380,
+    "geolocation": {
+      "latitude": 55.221867,
+      "longitude": 45.893767
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "с",
+      "settlement": "Сеченово",
+      "fullAddress": "Нижегородская обл., с. Сеченово, ул.70 лет Октября,13",
+      "location": "Гостиница"
+    }
+  },
+  {
+    "id": 524383,
+    "geolocation": {
+      "latitude": 56.283496,
+      "longitude": 43.890505
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Нижний Новгород",
+      "fullAddress": "Нижегородская обл., г. Нижний Новгород, ул.Аксакова, 38",
+      "location": "ПАО \"Газпром Газораспределение\""
+    }
+  },
+  {
+    "id": 524384,
+    "geolocation": {
+      "latitude": 56.315026,
+      "longitude": 42.949248
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "п",
+      "settlement": "Мулино",
+      "fullAddress": "Нижегородская обл., п. Мулино, ул. Новая, 26",
+      "location": "М-н \"Райцентр\""
+    }
+  },
+  {
+    "id": 524385,
+    "geolocation": {
+      "latitude": 56.247881,
+      "longitude": 43.46344
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Дзержинск",
+      "fullAddress": "Нижегородская обл., г. Дзержинск, пр. Чкалова, 23",
+      "location": "ТЦ \"Юбилейный\""
+    }
+  },
+  {
+    "id": 524386,
+    "geolocation": {
+      "latitude": 56.323802,
+      "longitude": 43.981031
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Нижний Новгород",
+      "fullAddress": "Нижегородская обл., г. Нижний Новгород, ул. Заломова, 2",
+      "location": "Гостиница \"Азимут\""
+    }
+  },
+  {
+    "id": 524387,
+    "geolocation": {
+      "latitude": 56.227554,
+      "longitude": 43.400809
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Дзержинск",
+      "fullAddress": "Нижегородская обл., г. Дзержинск, ул. Циолковского, 76",
+      "location": "ТЦ \"Союз\""
+    }
+  },
+  {
+    "id": 524388,
+    "geolocation": {
+      "latitude": 56.303857,
+      "longitude": 43.989987
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Нижний Новгород",
+      "fullAddress": "Нижегородская обл., г. Нижний Новгород, ул.Пушкина, 18",
+      "location": "Газпром газораспределение"
+    }
+  },
+  {
+    "id": 524390,
+    "geolocation": {
+      "latitude": 56.233394,
+      "longitude": 43.436158
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Дзержинск",
+      "fullAddress": "Нижегородская обл., г. Дзержинск, ул. Гайдара, 61",
+      "location": "ТЦ \"ЦУМ\""
+    }
+  },
+  {
+    "id": 524392,
+    "geolocation": {
+      "latitude": 56.18709,
+      "longitude": 43.101901
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "п",
+      "settlement": "Володарск",
+      "fullAddress": "Нижегородская обл., п. Володарск, ул.Мичурина",
+      "location": "Проходная птицефабрики"
+    }
+  },
+  {
+    "id": 524393,
+    "geolocation": {
+      "latitude": 55.588529,
+      "longitude": 44.288744
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "с",
+      "settlement": "Елховка",
+      "fullAddress": "Нижегородская обл., с. Елховка, ООО \"ННПП\"",
+      "location": "ООО \"ННПП\""
+    }
+  },
+  {
+    "id": 524394,
+    "geolocation": {
+      "latitude": 54.717641,
+      "longitude": 44.822263
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "с",
+      "settlement": "Починки",
+      "fullAddress": "Нижегородская обл., с. Починки, ул. Советская, 8",
+      "location": "Спорткомплекс"
+    }
+  },
+  {
+    "id": 524395,
+    "geolocation": {
+      "latitude": 55.55497,
+      "longitude": 45.919398
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "рп",
+      "settlement": "Пильна",
+      "fullAddress": "Нижегородская обл., рп. Пильна, Пильненское ЛПУМГ",
+      "location": "Пильненское ЛПУМГ"
+    }
+  },
+  {
+    "id": 524399,
+    "geolocation": {
+      "latitude": 55.399873,
+      "longitude": 43.820859
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Нижний Новгород",
+      "fullAddress": "Нижегородская обл., г. Нижний Новгород, ул. Челюскинцев, 9",
+      "location": "НГПУ им.Козьмы Минина (Автозаводский филиал)"
+    }
+  },
+  {
+    "id": 524401,
+    "geolocation": {
+      "latitude": 56.240467,
+      "longitude": 43.492999
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Дзержинск",
+      "fullAddress": "Нижегородская обл., г. Дзержинск, пр-т Ленина, 107",
+      "location": "ПАО \"Газпром Газораспределение\""
+    }
+  },
+  {
+    "id": 524403,
+    "geolocation": {
+      "latitude": 56.31923,
+      "longitude": 43.9306
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Нижний Новгород",
+      "fullAddress": "Нижегородская обл., г. Нижний Новгород, Московское ш., 4е",
+      "location": "Автостанция"
+    }
+  },
+  {
+    "id": 524404,
+    "geolocation": {
+      "latitude": 56.327061,
+      "longitude": 43.846428
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Кстово",
+      "fullAddress": "Нижегородская обл., г. Кстово, ул. 40 лет Октября, 13",
+      "location": "магазин \"Пятерочка\""
+    }
+  },
+  {
+    "id": 524405,
+    "geolocation": {
+      "latitude": 56.249139,
+      "longitude": 43.580004
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Нижний Новгород",
+      "fullAddress": "Нижегородская обл., г. Нижний Новгород, ул.Чаадаева, 12Б",
+      "location": "ПАО \"Газпром Газораспределение\""
+    }
+  },
+  {
+    "id": 524406,
+    "geolocation": {
+      "latitude": 56.265696,
+      "longitude": 43.637464
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Дзержинск",
+      "fullAddress": "Нижегородская обл., г. Дзержинск, Менделеева, 2",
+      "location": "Сибур-Нефтехим, Центр. проходная"
+    }
+  },
+  {
+    "id": 524410,
+    "geolocation": {
+      "latitude": 56.328808,
+      "longitude": 44.01293
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Нижний Новгород",
+      "fullAddress": "Нижегородская обл., г. Нижний Новгород, ул. Минина, 8б",
+      "location": "ДО \"Волжский\" Филиала Банка ГПБ (АО) \"Приволжский\""
+    }
+  },
+  {
+    "id": 524412,
+    "geolocation": {
+      "latitude": 56.014188,
+      "longitude": 45.036451
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Лысково",
+      "fullAddress": "Нижегородская обл., г. Лысково, ул. Казанская, 1г",
+      "location": "м-н \"Магнит\""
+    }
+  },
+  {
+    "id": 524416,
+    "geolocation": {
+      "latitude": 56.455491,
+      "longitude": 43.525124
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Балахна",
+      "fullAddress": "Нижегородская обл., г. Балахна, п.Гидроторф",
+      "location": "з-д \"Биаксплен\", проходная"
+    }
+  },
+  {
+    "id": 524417,
+    "geolocation": {
+      "latitude": 56.299011,
+      "longitude": 43.997632
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Нижний Новгород",
+      "fullAddress": "Нижегородская обл., г. Нижний Новгород, Конный проезд, 10",
+      "location": "ПАО \"Газпром Газораспределение\""
+    }
+  },
+  {
+    "id": 524418,
+    "geolocation": {
+      "latitude": 55.758645,
+      "longitude": 47.168482
+    },
+    "address": {
+      "region": "Чувашская (Чувашия)",
+      "regionType": "Респ",
+      "settlementType": "с",
+      "settlement": "Красноармейское",
+      "fullAddress": "Чувашская (Чувашия) Респ., с. Красноармейское, ул.Ленина, 98",
+      "location": "Физкультурно-оздоровительный комплекс"
+    }
+  },
+  {
+    "id": 524420,
+    "geolocation": {
+      "latitude": 56.347799,
+      "longitude": 43.870934
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Нижний Новгород",
+      "fullAddress": "Нижегородская обл., г. Нижний Новгород, ул. Коминтерна, 105",
+      "location": "ТЦ \"Золотая Миля\""
+    }
+  },
+  {
+    "id": 524421,
+    "geolocation": {
+      "latitude": 56.239503,
+      "longitude": 43.863936
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Нижний Новгород",
+      "fullAddress": "Нижегородская обл., г. Нижний Новгород, ул. Веденяпина, 2Б",
+      "location": "ТЦ \"Парк-Авеню\""
+    }
+  },
+  {
+    "id": 524422,
+    "geolocation": {
+      "latitude": 56.323263,
+      "longitude": 44.012095
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Нижний Новгород",
+      "fullAddress": "Нижегородская обл., г. Нижний Новгород, ул. Ковалихинская, 8",
+      "location": "Бизнес центр \"Центр международной торговли\""
+    }
+  },
+  {
+    "id": 524424,
+    "geolocation": {
+      "latitude": 56.246255,
+      "longitude": 43.965359
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Нижний Новгород",
+      "fullAddress": "Нижегородская обл., г. Нижний Новгород, пр-т Гагарина,59а",
+      "location": "автосалон Артан"
+    }
+  },
+  {
+    "id": 524425,
+    "geolocation": {
+      "latitude": 56.314836,
+      "longitude": 44.001297
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Нижний Новгород",
+      "fullAddress": "Нижегородская обл., г. Нижний Новгород, ул. Горького, 115",
+      "location": "Гостиница \"Ибис\""
+    }
+  },
+  {
+    "id": 524426,
+    "geolocation": {
+      "latitude": 56.320302,
+      "longitude": 43.947581
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Нижний Новгород",
+      "fullAddress": "Нижегородская обл., г. Нижний Новгород, пр. Ленина, 93",
+      "location": "Гринатом"
+    }
+  },
+  {
+    "id": 524427,
+    "geolocation": {
+      "latitude": 56.299242,
+      "longitude": 43.945304
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Нижний Новгород",
+      "fullAddress": "Нижегородская обл., г. Нижний Новгород, пл. Комсомольская, 3а",
+      "location": "АЗС Газпромнефть"
+    }
+  },
+  {
+    "id": 524429,
+    "geolocation": {
+      "latitude": 56.333779,
+      "longitude": 43.959085
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Нижний Новгород",
+      "fullAddress": "Нижегородская обл., г. Нижний Новгород, ул. Керченская, 13",
+      "location": "БЦ \"Время\""
+    }
+  },
+  {
+    "id": 524431,
+    "geolocation": {
+      "latitude": 55.397999,
+      "longitude": 43.845366
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Арзамас",
+      "fullAddress": "Нижегородская обл., г. Арзамас, ул.Севастопольская, 27",
+      "location": "ПАО \"Газпром газораспределение\""
+    }
+  },
+  {
+    "id": 524433,
+    "geolocation": {
+      "latitude": 56.312045,
+      "longitude": 44.037194
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Нижний Новгород",
+      "fullAddress": "Нижегородская обл., г. Нижний Новгород, пер. Звенигородский, 8",
+      "location": "ПАО \"Газпром Газораспределение\""
+    }
+  },
+  {
+    "id": 524435,
+    "geolocation": {
+      "latitude": 56.302617,
+      "longitude": 43.978453
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Нижний Новгород",
+      "fullAddress": "Нижегородская обл., г. Нижний Новгород, пр-т Гагарина,17А",
+      "location": "Российский Государственный Университет Правосудия"
+    }
+  },
+  {
+    "id": 524436,
+    "geolocation": {
+      "latitude": 56.150499,
+      "longitude": 44.211296
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Кстово",
+      "fullAddress": "Нижегородская обл., г. Кстово, пл. Ленина, 5А",
+      "location": "ТЦ \"Пирамида\", м-н \"Магнит\""
+    }
+  },
+  {
+    "id": 524439,
+    "geolocation": {
+      "latitude": 56.302428,
+      "longitude": 44.029136
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Нижний Новгород",
+      "fullAddress": "Нижегородская обл., г. Нижний Новгород, ул. Ванеева, 121",
+      "location": "Гостиница \"Сова\""
+    }
+  },
+  {
+    "id": 524440,
+    "geolocation": {
+      "latitude": 56.338474,
+      "longitude": 43.838325
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Нижний Новгород",
+      "fullAddress": "Нижегородская обл., г. Нижний Новгород, ул.Мечникова, д.75",
+      "location": "магазин Ордер"
+    }
+  },
+  {
+    "id": 524441,
+    "geolocation": {
+      "latitude": 56.296037,
+      "longitude": 42.791629
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "п",
+      "settlement": "Центральный",
+      "fullAddress": "Нижегородская обл., п. Центральный, полк Химзащиты",
+      "location": "КПП"
+    }
+  },
+  {
+    "id": 524443,
+    "geolocation": {
+      "latitude": 56.22599,
+      "longitude": 43.396749
+    },
+    "address": {
+      "region": "Нижегородская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Дзержинск",
+      "fullAddress": "Нижегородская обл., г. Дзержинск, ул.Свердлова, 67а",
+      "location": "Теплогаз Дзержинск"
+    }
+  },
+  {
+    "id": 524445,
+    "geolocation": {
+      "latitude": 58.603811,
+      "longitude": 49.671912
+    },
+    "address": {
+      "region": "Кировская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Киров",
+      "fullAddress": "Кировская обл., г. Киров, ул. Московская, 31",
+      "location": "ОО \"Кировский\" Филиала Банка ГПБ (АО) \"Приволжский\""
+    }
+  },
+  {
+    "id": 524446,
+    "geolocation": {
+      "latitude": 56.620998,
+      "longitude": 47.858358
+    },
+    "address": {
+      "region": "Марий Эл",
+      "regionType": "Респ",
+      "settlementType": "г",
+      "settlement": "Йошкар-Ола",
+      "fullAddress": "Марий Эл Респ., г. Йошкар-Ола, ул. Строителей, 95",
+      "location": "ЗАО \"Портал\""
+    }
+  },
+  {
+    "id": 524448,
+    "geolocation": {
+      "latitude": 58.602559,
+      "longitude": 49.626458
+    },
+    "address": {
+      "region": "Кировская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Киров",
+      "fullAddress": "Кировская обл., г. Киров, ул. Московская, 106/1",
+      "location": "Автосалон \"Фольксваген\""
+    }
+  },
+  {
+    "id": 524449,
+    "geolocation": {
+      "latitude": 58.594142,
+      "longitude": 49.656219
+    },
+    "address": {
+      "region": "Кировская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Киров",
+      "fullAddress": "Кировская обл., г. Киров, ул. Воровского, 77",
+      "location": "ТЦ \"ЦУМ\""
+    }
+  },
+  {
+    "id": 524450,
+    "geolocation": {
+      "latitude": 58.637733,
+      "longitude": 49.614079
+    },
+    "address": {
+      "region": "Кировская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Киров",
+      "fullAddress": "Кировская обл., г. Киров, Октябрьский пр-т, 1",
+      "location": "м-н \"Глобус\""
+    }
+  },
+  {
+    "id": 524451,
+    "geolocation": {
+      "latitude": 58.596149,
+      "longitude": 49.658537
+    },
+    "address": {
+      "region": "Кировская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Киров",
+      "fullAddress": "Кировская обл., г. Киров, Октябрьский пр-т, 84",
+      "location": "магазин \"Все на свете\""
+    }
+  },
+  {
+    "id": 524452,
+    "geolocation": {
+      "latitude": 58.602761,
+      "longitude": 49.5972
+    },
+    "address": {
+      "region": "Кировская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Киров",
+      "fullAddress": "Кировская обл., г. Киров, ул. Московская, 171",
+      "location": "м-н \"Глобус\""
+    }
+  },
+  {
+    "id": 524453,
+    "geolocation": {
+      "latitude": 58.61111,
+      "longitude": 49.680716
+    },
+    "address": {
+      "region": "Кировская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Киров",
+      "fullAddress": "Кировская обл., г. Киров, ул.Ленина, 20",
+      "location": "м-н \"Глобус\""
+    }
+  },
+  {
+    "id": 524454,
+    "geolocation": {
+      "latitude": 58.594438,
+      "longitude": 49.666657
+    },
+    "address": {
+      "region": "Кировская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Киров",
+      "fullAddress": "Кировская обл., г. Киров, ул. Воровского, 43",
+      "location": "ТД \"Европейский\", 1 этаж"
+    }
+  },
+  {
+    "id": 524455,
+    "geolocation": {
+      "latitude": 58.597481,
+      "longitude": 49.605572
+    },
+    "address": {
+      "region": "Кировская",
+      "regionType": "обл",
+      "settlementType": "г",
+      "settlement": "Киров",
+      "fullAddress": "Кировская обл., г. Киров, ул. Воровского, 135",
+      "location": "ТЦ \"Глобус\", 2 этаж"
+    }
+  }
+]

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GazPromBank_ONE_CODE_WOMEN-main.iml" filepath="$PROJECT_DIR$/.idea/GazPromBank_ONE_CODE_WOMEN-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GazPromBank_ONE_CODE_WOMEN-main/GazProm_Hack.iml" filepath="$PROJECT_DIR$/GazPromBank_ONE_CODE_WOMEN-main/GazProm_Hack.iml" />
+    </modules>
+  </component>
+</project>
